@@ -19,6 +19,7 @@ repository: itrickzhang/itrickzhang.github.io
 github_url: https://github.com/itrickzhang
 url: http://www.cnzcb.cn
 enforce_ssl: cnzcb.com
+root: /root
 
 ## Gem
 plugins:
