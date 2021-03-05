@@ -56,40 +56,6 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-  -
-    href: http://itmooc.tech/
-    label: IDEA破解
-    target: _blank  
-
-  -
-    href: /money.html
-    label: 挣钱
-    target: _self   
-
-  -
-    href: /it.html
-    label: 深度
-    target: _self
-
-  -
-    href: /life.html
-    label: 故事
-    target: _self
-
-  -
-    href: /arch.html
-    label: 架构
-    target: _self
-
-  -
-    href: /link.html
-    label: 友链
-    target: _self
-
-  -
-    href: /about.html
-    label: 关于
-    target: _self
 
 # Navigation. main menu list
 navs:
