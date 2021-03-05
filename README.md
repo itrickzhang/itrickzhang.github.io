@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.cnzcb.cn/assets/images/keeppuresmile_430.jpg)
+![](http://www.cnzcb.cn/assets/images/6.66.png)
