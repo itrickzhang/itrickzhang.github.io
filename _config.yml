@@ -65,11 +65,6 @@ navs:
     label: Home
 
   -
-    href: http://laughyouth.com/
-    label: Comics
-    target: _blank
-
-  -
     href: /spring-boot.html
     label: Spring Boot
     target: _self
@@ -99,21 +94,6 @@ navs:
         target: _blank
 
   -
-    
-    href: /python.html
-    label: Python
-    subnav:
-
-      -
-        subHref: /python.html
-        subLabel: Python 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
-
-  -
     href: /archives.html
     label: Archives
     target: _self
@@ -128,54 +108,16 @@ labels:
     label: Pay     
     target: _self
 
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _blank
-
-  -
-    href: http://favorites.ren/stock.html
-    label: 股票
-    target: _blank  
-
+  
 
 # selected articles
 classes:
-
-  -
-    href: /cartoon.html
-    name: 不会笑青年
-    describe: 内心沉稳 ，放荡不羁。
 
   -
     href: /life.html
     name: 我的故事
     describe: 生活就是故事，故事就是生活
 
-  -
-    href: /it.html
-    name: IT行业深度报道
-    describe: IT大佬，互联网知名公司的故事
 
 
 
